@@ -1,0 +1,28 @@
+name: Stillstate Wellness
+favicon: null
+layout_spectrum: 0.7057916224002838
+typography_spectrum: 0.9405247035901994
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.34140698867850006
+  lightness: 0.6671203398145735
+  saturation: 0.2740284714382142
+  rhythmicContrast: 0.30474933283403516
+purpose: []
