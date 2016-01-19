@@ -6,18 +6,18 @@ inLanguage: null
 starred: true
 keywords: []
 description: 'Welcome!'
-datePublished: '2016-01-18T22:24:44.501Z'
-dateModified: '2016-01-18T22:24:39.147Z'
+datePublished: '2016-01-19T16:06:21.968Z'
+dateModified: '2016-01-19T16:06:17.469Z'
 title: Introduction
 author: []
+sourcePath: _posts/2016-01-18-introduction.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-01-18-introduction.md
-published: true
 url: introduction/index.html
 _type: Article
 
